@@ -23,7 +23,7 @@ public class Arena1Game : NetworkBehaviour
         Color.cyan,
         Color.green,
         Color.blue,
-        Color.magenta,
+        Color.magenta
     };
 
     // Start is called before the first frame update
